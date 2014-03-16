@@ -1,12 +1,16 @@
-{
-	"name": "shared",
-	"private": true,
-	"description": "Shared library",
-	"version": "0.0.1",
-	"author": {
-		"name": "Nik Butenko",
-		"email": "nik@butenko.me"
-	},
-	"main": "index",
-	"readmeFilename": "README.md"
-}
+	{
+		"name": "shared",
+		"private": true,
+		"description": "Shared library",
+		"version": "0.0.1",
+		"author": {
+			"name": "Nik Butenko",
+			"email": "nik@butenko.me"
+		},
+		"repository": {
+			"type": "git",
+			"url": "https://github.com/nkbt/sydjs-npm.git#shared"
+		},
+		"main": "index.js",
+		"readmeFilename": "README.md"
+	}
