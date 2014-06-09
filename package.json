@@ -1,15 +1,16 @@
-	{
-		"name": "nnj-shared",
-		"private": true,
-		"description": "Shared library",
-		"author": {
-			"name": "Nik Butenko",
-			"email": "nik@butenko.me"
-		},
-		"repository": {
-			"type": "git",
-			"url": "https://github.com/nkbt/nnj-shared.git"
-		},
-		"main": "index.js",
-		"readmeFilename": "README.md"
-	}
+{
+	"name": "nnj-shared",
+	"version": "0.0.2",
+	"private": true,
+	"description": "Shared library",
+	"author": {
+		"name": "Nik Butenko",
+		"email": "nik@butenko.me"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/nkbt/nnj-shared.git"
+	},
+	"main": "index.js",
+	"readmeFilename": "README.md"
+}
